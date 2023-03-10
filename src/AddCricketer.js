@@ -29,7 +29,7 @@ export default function AddCricketer({
       <br />
       Cricketer Run:{" "}
       <input
-        placeholder="Cicketer Run"
+        placeholder="Cicketer Run1"
         value={cric_run}
         onChange={onChangeRun}
       />
